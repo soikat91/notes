@@ -1,2 +1,3 @@
 this is day1 note
 added 
+cloned success
