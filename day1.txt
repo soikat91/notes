@@ -2,6 +2,11 @@ this is day1 note
 added 
 cloned success
 local repo success 
+<<<<<<< HEAD
 
 Updated Updated push
 new branch feature2
+=======
+This is fix issues branch success
+Updated Updated push
+>>>>>>> 30cd5175290ecefb3a6ada853e48b831ec2dd9c4
