@@ -2,5 +2,5 @@ this is day1 note
 added 
 cloned success
 local repo success 
-
+This is fix issues branch success
 Updated Updated push
